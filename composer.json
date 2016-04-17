@@ -1,0 +1,13 @@
+{
+    "name": "elven/geephpsdk",
+    "description": "rewrite geetest php sdk",
+    "require": {
+        "php": ">=5.0.0"
+    },
+    "authors": [
+        {
+            "name": "elven",
+            "email": "elvenisboy@outlook.com"
+        }
+    ]
+}
